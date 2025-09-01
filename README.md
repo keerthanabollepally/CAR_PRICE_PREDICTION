@@ -78,6 +78,12 @@ The Random Forest model typically achieves a high R² score on the test data, of
 
     The app will open in your default web browser.
 
+
+
+
+
+<img width="1919" height="906" alt="Screenshot 2025-09-01 210522" src="https://github.com/user-attachments/assets/e559bfd2-d2fa-4204-99ba-e90525a985f5" />
+
 -----
 
 ## 💻 Project Structure
